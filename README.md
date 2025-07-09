@@ -14,6 +14,12 @@ Este é um jogo de plataforma 2D desenvolvido com **PGZero**, voltado para fins 
 
 ---
 
+## 🎮 Como jogar localmente
+
+- Instale o Python 3.11 ou superior
+- Instale o PGzero: no terminal digite: pip install pgzero
+- Execute o jogo com: pgzrun game.py
+
 ## ✅ Funcionalidades implementadas
 
 - [x] **Menu inicial interativo** com botões funcionais (Play, Música, Sair)
